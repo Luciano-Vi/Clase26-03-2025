@@ -83,3 +83,51 @@ header h2{
     margin-left: 1%;
     text-shadow: 0 0 20px rgba(190, 12, 12, 0.486);
 }
+
+h3{
+    font-size: 1.4cm;
+    margin-top: 20px;
+    color: rgba(54, 0, 0, 0.295);
+}
+
+section{
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(162, 0, 255, 0.445);
+}
+
+section hr{
+    border: 0;
+    height: 2px;
+    background: rgba(255, 166, 0, 0.712);
+    margin: 10px 0;
+}
+
+ul{
+   list-style: none; 
+}
+
+ul li{
+    padding: 5px p;
+}
+
+i{
+    color: rgba(255, 0, 0, 0.986);
+    margin-right: 8px;
+}
+
+address{
+    margin: 5px 0;
+}
+
+address a{
+    color: rgba(128, 4, 4, 0.425);
+    text-decoration: none;
+}
+
+article{
+    margin-bottom: 15px;
+}
+
